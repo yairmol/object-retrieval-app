@@ -38,3 +38,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+*.jpg
+old-components
+*.pt
+*.ipynb
+__pycache__
